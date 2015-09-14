@@ -1,6 +1,6 @@
 ### Prize money history for singles champions at each Grand Slam (1968-2015)
 
-This dataset initially used for an article published on the Guardian, 11 September 2015: 'Battle of the sexes: charting how women in tennis achieved equal pay'.
+This dataset initially used for an article published on the Guardian, 11 September 2015: ['Battle of the sexes: charting how women in tennis achieved equal pay'](http://www.theguardian.com/sport/2015/sep/11/how-women-in-tennis-achieved-equal-pay-us-open).
 
 I found it surprisingly difficult to get prize money data for some of the Grand Slams, so am sharing it here for others to use.
 
